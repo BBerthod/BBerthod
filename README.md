@@ -20,6 +20,9 @@ Claude Code · Codex · ChatGPT · Gemini · Grok · Mistral · GLM · Qwen and 
 ### Open source
 
 - [ClaudeBar](https://github.com/BBerthod/ClaudeBar): macOS menu bar app to monitor AI coding agents in real time (Claude, Codex, Gemini, local oMLX): rate limits, costs per project, alerts.
+- [up-monitor](https://github.com/BBerthod/up-monitor): self-hosted uptime monitoring with real-time dashboard, status pages, SSL checks, alerts and Lighthouse audits (Laravel, Vue).
+- [mcp-vector-memory](https://github.com/BBerthod/mcp-vector-memory): MCP server giving AI coding agents a shared, persistent memory over code and docs (Qdrant, Ollama, tree-sitter).
+- [claude-code-config](https://github.com/BBerthod/claude-code-config): my Claude Code setup: specialised agents, rules, skills and commands.
 
 ### Get in touch
 
