@@ -23,4 +23,4 @@ Claude Code · Codex · ChatGPT · Gemini · Grok · Mistral · GLM · Qwen and 
 
 ### Get in touch
 
-[radiank.com](https://radiank.com) · [LinkedIn](https://www.linkedin.com/in/billy-berthod-4723a19a/)
+[radiank.com](https://radiank.com) · [LinkedIn](https://www.linkedin.com/in/billyberthod/)
